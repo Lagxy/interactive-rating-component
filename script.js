@@ -11,4 +11,4 @@ submit.addEventListener('click', () => {
     content1.style.display = "none";
     content2.style.display = "flex";
     text.textContent = `You selected ${value.value} out of 5`;
-})
+});
